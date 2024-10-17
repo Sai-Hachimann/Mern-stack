@@ -6,7 +6,7 @@ const Wrapper = styled.aside`
   }
   .sidebar-container {
     position: fixed;
-    inset: 0;
+    inset: 0; //top bottom left right = 0
     background: rgba(0, 0, 0, 0.7);
     display: flex;
     justify-content: center;
